@@ -1,6 +1,6 @@
 [
   {
-    "name": "PersonalSite",
+    "name": "Personal Site",
     "url": "https://www.denishrana.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.denishrana.com.ico",
     "slug": "personal-site",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 709,
+    "timeDay": 709,
+    "timeWeek": 709,
+    "timeMonth": 709,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   }
 ]
